@@ -4,7 +4,7 @@ This exercise involves converting a given skeleton text file into a valid, inter
 
 ## Getting Started
 * Fork and clone this repository to your computer
-* Inspect the repository contents. Note that `skeleton.html` has a scaffold of the content you'll need
+* Inspect the repository contents. Note that `index.html` has a scaffold of the content you'll need
 
 ## Requirements
 * The page title should be, **General Assembly Account Creation**
@@ -15,8 +15,8 @@ This exercise involves converting a given skeleton text file into a valid, inter
 
 ## Screenshot of the Skeleton
 
-![Skeleton](skeleton.png)
+![Skeleton](images/skeleton.png)
 
 ## Example Solution
 
-![Solution](solution.png)
+![Solution](images/solution.png)
